@@ -482,7 +482,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -235.15436, y: 128.48077}
+  m_AnchoredPosition: {x: -337, y: 247}
   m_SizeDelta: {x: 1191.7844, y: 540.8584}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1929237141
@@ -506,15 +506,16 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'You break through the wall and you are now in a dark hallway with many
-    rooms.
+    rooms the front dor to the house is locked you have no choice but to go in one
+    of the rooms
 
 
-    1) You try to leave out the front door.
+    1) You go in the first door on the right.
 
-    2) You go in one of
-    the rooms on the right.
+    2) You go in
+    the second door on the right.
 
-    3) You go in one of the rooms on the left.'
+    3) You go in the room on the left.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -541,8 +542,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
