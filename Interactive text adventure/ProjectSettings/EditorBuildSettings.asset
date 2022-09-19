@@ -14,4 +14,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene 2.unity
     guid: 61b602b3fdfb7d8499b8f105580a2b83
+  - enabled: 1
+    path: Assets/Scenes/break through wall.unity
+    guid: 22d3393b2865cdf479684b0c6c79c614
+  - enabled: 1
+    path: Assets/Scenes/Scene 4.unity
+    guid: a4c971de4a4283549bceea924797aeb1
+  - enabled: 1
+    path: Assets/Scenes/scene 5.unity
+    guid: 217a327b0adc01343a56489d75c5750e
+  - enabled: 1
+    path: Assets/states/Game overs/cannibal scene.unity
+    guid: 010340c7df6855445aa831c3b0d1e62c
+  - enabled: 1
+    path: Assets/states/Game overs/pit scene.unity
+    guid: 3227b879b9805274c9a8f78339cc42e4
+  - enabled: 1
+    path: Assets/states/Game overs/tree scene.unity
+    guid: e47101c35c908a54797691baee84147d
+  - enabled: 1
+    path: Assets/states/Game overs/Dog scene.unity
+    guid: d413a3fac5811ac4a93244bb5e77a105
   m_configObjects: {}

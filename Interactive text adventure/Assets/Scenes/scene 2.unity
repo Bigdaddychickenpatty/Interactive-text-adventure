@@ -208,7 +208,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 751952505135291109, guid: 5be34fe70426c3146a1aa14511d424b8, type: 3}
         m_TargetAssemblyTypeName: sceneloader, Assembly-CSharp
-        m_MethodName: LoadNextScene
+        m_MethodName: LoadBreakthruScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

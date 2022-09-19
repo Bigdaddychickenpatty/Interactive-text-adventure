@@ -16,6 +16,16 @@ public class sceneloader : MonoBehaviour
     SceneManager.LoadScene(0);
    }
 
+    public void LoadBreakthruScene()
+   {
+    SceneManager.LoadScene(3);
+   }
+
+    public void LoadpitScene()
+   {
+    SceneManager.LoadScene(7);
+   }
+
 public void QuitGame()
 {
     Application.Quit();
