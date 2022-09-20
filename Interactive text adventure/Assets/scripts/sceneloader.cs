@@ -25,6 +25,30 @@ public class sceneloader : MonoBehaviour
    {
     SceneManager.LoadScene(7);
    }
+public void LoadtreeScene()
+   {
+    SceneManager.LoadScene(8);
+   }
+
+public void LoadcannibalScene()
+   {
+    SceneManager.LoadScene(6);
+   }
+
+   public void LoadScene4()
+   {
+    SceneManager.LoadScene(4);
+   }
+
+   public void LoaddogScene()
+   {
+    SceneManager.LoadScene(9);
+   }
+
+   public void LoadwinScene()
+   {
+    SceneManager.LoadScene(5);
+   }
 
 public void QuitGame()
 {
